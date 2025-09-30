@@ -1,3 +1,3 @@
 LINUX AND MACOS INSTRUCTIONS
 
-just cd into folder and run python3 clock.py
+just cd into folder and run python3 flower.py
